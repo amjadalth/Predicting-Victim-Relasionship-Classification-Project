@@ -23,4 +23,6 @@ RandomForestClassifier | 0.8788 | 0.8818
 BernouliNB | 0.9603 | 0.9614
 MultinomialNB | 0.9058 | 0.9063
 GaussianNB | 0.9980 | 0.9978
+
+
 as we see, Guassian model gives us the highest score in both training and validation **0.9980**, and **0.9978** respectively; and as a next step, we will build more models.
