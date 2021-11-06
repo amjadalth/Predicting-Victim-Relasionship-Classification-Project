@@ -2,7 +2,7 @@
 
 
 # What is inside:
-This project is done during SDAIA Academy bootcamp of Data Science and AI, in collaboration with[Renad Albishri](https://github.com/renad-albishri).
+This project is done during SDAIA Academy bootcamp of Data Science and AI, in collaboration with [Renad Albishri](https://github.com/renad-albishri).
 # About the repository:
 - [Project Proposal](https://github.com/amjadalth/Predicting-Victim-Relasionship-Classification-Project/blob/main/Predicting%20Victim%20Relationship%20Classification%20Proposal.md)
 - [Project MVP](https://github.com/amjadalth/Predicting-Victim-Relasionship-Classification-Project/blob/main/Predicting%20Victim%20Relationship%20Classification%20MVP.md)
