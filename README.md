@@ -8,7 +8,7 @@ This project is done during SDAIA Academy bootcamp of Data Science and AI, in co
 - [Project MVP](https://github.com/amjadalth/Predicting-Victim-Relasionship-Classification-Project/blob/main/Predicting%20Victim%20Relationship%20Classification%20MVP.md)
 - [Images](https://github.com/amjadalth/Predicting-Victim-Relasionship-Classification-Project/tree/main/Images)
 - [Final Report](https://github.com/amjadalth/Predicting-Victim-Relasionship-Classification-Project/blob/main/Predicting%20Victim%20Relationship%20Report.md)
-- [Slides Presentation]()
+- [Slides Presentation](https://github.com/amjadalth/Predicting-Victim-Relasionship-Classification-Project/blob/main/Victim%20Relationship%20Prediction%20Presentation.pdf)
 
 
 ### Contact Me
